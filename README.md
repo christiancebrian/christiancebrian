@@ -1,36 +1,77 @@
-### Olá, sou Christian Cebrian!  👋
+# 👨‍💻 Christian Cebrian  
 
-- 🔭 Hoje eu trabalho com Full-Stack
-- 🌱 Estudando PHP, MVC e Bootstrap
-- 📫 Contate-me no e-mail: dj-cebrian@hotmail.com
-- 😄 Pronouns: ele/dele
+🚀 Senior DevOps Engineer | Full-Stack Developer  
 
-<div style="display: inline-block;">
+Especialista em desenvolvimento de sistemas web escaláveis, automação de processos e arquitetura backend.  
+Atuo na construção de aplicações robustas com foco em performance, organização de código e integração de serviços.
+
+---
+
+## 🧠 Expertise
+
+- ⚙️ Arquitetura de aplicações (MVC, APIs REST)
+- 🔄 Automação de processos e rotinas backend
+- 📦 Integração de sistemas e manipulação de dados em larga escala
+- 🚀 Otimização de performance e queries SQL complexas
+- 🔐 Controle de acesso, autenticação e segurança de aplicações
+- 🔧 Estruturação de projetos escaláveis e manutenção de legado
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+- PHP (Arquitetura MVC, APIs REST)
+- MySQL / PostgreSQL (queries avançadas, otimização)
+
+### Frontend
+- JavaScript (Vanilla / jQuery)
+- HTML5 / CSS3 / Bootstrap
+
+### DevOps & Infra
+- Git (versionamento e fluxo de deploy)
+- Ambientes locais (WAMP / Linux)
+- Deploy e manutenção de aplicações web
+
+---
+
+## 📊 GitHub Stats
+
+<div>
   <a href="https://github.com/christiancebrian">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=christiancebrian&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christiancebrian&layout=compact&langs_count=7&theme=github_dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=christiancebrian&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christiancebrian&layout=compact&langs_count=7&theme=github_dark"/>
+  </a>
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML5" height="auto" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="Javascript" height="auto" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="CSS3" height="auto" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Typescript" height="auto" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="React" height="auto" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
-  <img align="center" alt="PHP" height="auto" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center" alt="MySQL" height="auto" width="85" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Bootstrap" height="auto" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Laravel" height="auto" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
-  <img align="center" alt="JQuery" height="auto" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg">
-  <img align="center" alt="Wordpress" height="auto" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg">
-  <img align="right" alt="Dexter" height="auto" width="180" style="border-radius: 25px;" src="http://2.bp.blogspot.com/-_onsG2BzySg/VC2jC_T6DaI/AAAAAAAAAsE/rVtWhk5XuRA/s1600/dexter_by_wolf_shadow77-d3040ru.png">
-</div>
-  
-  ##
- 
-<div> 
-  <!-- Para adicionar novos icones https://dev.to/envoy_/150-badges-for-github-pnk -->
-  <a href="https://discordapp.com/users/christiancebrian#7020" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
- 
-  ![Snake animation](https://github.com/christiancebrian/christiancebrian/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+
+---
+
+## 🚀 Projetos em Destaque
+
+### 🎧 Sistema de Streaming com Auto DJ
+- Player contínuo sem repetição de músicas
+- Organização por gênero e rotação inteligente
+- Backend em PHP + MySQL com controle de fila dinâmica
+
+### 📊 Sistema de Distribuição de Conteúdo (Rádio)
+- Integração com múltiplas rádios
+- Controle de downloads e estatísticas
+- Queries otimizadas com alto volume de dados
+
+### 🔔 Sistema de Notificações Web Push
+- Envio de notificações em tempo real via browser
+- Backend em PHP + JavaScript
+- Estrutura preparada para escala
+
+---
+
+## 📫 Contato
+
+- 📧 Email: dj-cebrian@hotmail.com  
+- 💬 Discord: christiancebrian#7020  
+
+---
+
+## 🐍 Contribuições
+
+![Snake animation](https://github.com/christiancebrian/christiancebrian/blob/output/github-contribution-grid-snake.svg)
